@@ -1,0 +1,9 @@
+{
+	"name" : "My_test_app",
+	"version" : "0.0.1",
+	"dependencies" : {
+		"express" : "2.x.x",
+		"jade" : "0.26.x",
+		"handlebars" : "1.0.x"
+	}
+}
